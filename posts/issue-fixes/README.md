@@ -1,6 +1,7 @@
 ## **Patch Notes**
 - \+ Infinity session added.
 - \+ Tag selection issue fixed.
+- \+ Bot cards design updated.
 - \+ Bot adding wizard design updated.
 - \+ The display issue of 404/500 error pages has fixed.
 - \& As you know, there were technical problems in choosing tags before, we designed a new component to fix this. In this way, the tag selection problem is completely resolved.
